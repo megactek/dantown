@@ -26,7 +26,7 @@
 
  ## Installation procedure/Usage:
 
- - Clone the repository: ```git clone https://github.com/megactek/dantown_test.git``` and then ```cd dantown_test``` using your teminal
+ - Clone the repository: ```git clone git@github.com:megactek/dantown.git``` and then ```cd dantown_test``` using your teminal
  - Install composer dependencies: ```composer install```
  - Install node dependencies: ```npm install```
  - Set up environment file: rename the .env.example to .env and update with the required configurations
